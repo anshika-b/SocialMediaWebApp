@@ -1,0 +1,62 @@
+.homepage{
+    width: 80%;
+    margin-left: 10rem;
+}
+
+.homepage img {
+    width: 27rem;
+    height:34rem;
+}
+
+.p-desc{
+    text-align: left ;
+}
+
+.btn{
+    border: transparent;
+    background-color: transparent;
+    font-size: 2rem;
+    margin: 1rem 3rem;
+}
+
+.like-comm{
+    font-size: 1.3rem;
+    color: #ff8b2b;
+}
+
+h1{
+    color: #ff8b2b;
+}
+
+.one-post{
+    display: flex;
+    padding: 0rem 2rem;
+}
+
+.post-content{
+    margin-left: 10rem;
+}
+
+.like-count{
+    margin-top: 5rem;
+}
+
+.user{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.userimage{
+    max-height: 3.5rem;
+    max-width: 3.5rem;
+    border-radius: 20rem;
+}
+
+.submit{
+    padding: 0.7rem;
+    background-color: #ffa862;
+    border-color: #ff8b2b;
+    cursor: pointer;
+}

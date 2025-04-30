@@ -1,0 +1,139 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+/* logo */
+img{
+    float: left;
+    height: 45rem;
+    width: 45rem;
+}
+
+/* navbar */
+
+/* .navbar { */
+    /* border-bottom:0.1rem solid#ff8b2b ; */
+    /* box-shadow: 5px 10px 20px #ff8b2b; */
+    /* } */
+    
+    
+.navbar{
+    margin-top: -1rem;
+    /* display: flex; */
+    background-color: #ff8b2b;
+}
+
+.navbar-items{
+    margin-left:65rem;
+    display: flex;
+}
+
+li{
+    padding: 0.7rem 2rem;
+    list-style: none;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.5rem;
+}
+
+/* form  */
+
+.full-form{
+    margin-top: 2rem;
+    margin-left: 40rem;
+    font-size: 1.2rem;
+    /* border: 0.2rem solid #ff8b2b; */
+}
+
+input{
+    width: 25rem;
+    height: 1.6rem;
+    margin: 1rem;
+    padding: 0.5rem;
+}
+
+span{
+    color: #ff8b2b;
+    font-size: 2rem;
+}
+
+#submit-btn{
+    background-color: #ff8b2b;
+    width: 28rem;
+    height: 3rem;
+    /* margin: 1rem; */
+    padding: 0.5rem;
+    font-size: 1.5rem;
+    border-radius: 2rem;
+    border:0.1rem solid #ff8b2b;
+    color: white;
+}
+
+#submit-btn:hover{
+    /* border: #ff8b2b; */
+    background-color: white;
+    color: #ff8b2b;
+    transition: 0.2s;
+}
+
+#submit{
+    background-color: #ff8b2b;
+    width: 28rem;
+    height: 3rem;
+    /* margin: 1rem; */
+    padding: 0.5rem;
+    font-size: 1.5rem;
+    border-radius: 2rem;
+    border:0.1rem solid #ff8b2b;
+    color: white;
+}
+
+#submit:hover{
+    /* border: #ff8b2b; */
+    background-color: white;
+    color: #ff8b2b;
+    transition: 0.2s ease;
+}
+
+/* last-button */
+
+.button{
+    font-size: 1.2rem;
+    margin-left: 0.3rem;
+}
+
+/* home page */
+
+#home-btn{
+    background-color: #ff8b2b;
+    width: 28rem;
+    height: 3rem;
+    /* margin: 1rem; */
+    padding: 0.5rem;
+    font-size: 1.5rem;
+    border-radius: 2rem;
+    border:0.1rem solid #ff8b2b;
+    color: white;
+}
+
+#home-btn:hover{
+    /* border: #ff8b2b; */
+    background-color: white;
+    color: #ff8b2b;
+    transition: 0.2s ease;
+}
+
+.home{
+    margin-top: 6rem;
+
+
+}
+
+.home-span{
+    font-size: 4rem;
+    font-weight: bold;
+}

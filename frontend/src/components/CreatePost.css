@@ -1,0 +1,47 @@
+*{
+    margin: auto;
+}
+.create-post{
+    margin-top:2rem;
+    border: 2px solid #ff8b2b;
+    max-width: 30rem;
+    max-height: 50rem;
+
+} 
+h3{
+    border-bottom:2px solid #ff8b2b ;
+    margin: 1rem 0rem;
+    color: #ff8b2b;
+}
+
+#output{
+    max-width: 15rem;
+    max-height: 20rem;
+    margin: 1rem 7.5rem;
+    border: 1px solid #ff8b2b;
+}
+
+.submit-btn-create-post{
+    display: flex;
+    flex-direction: row;
+}
+.profile{
+    max-height: 3rem;
+    max-width: 3rem;
+    border-radius: 20rem;
+    margin-top: .8rem;
+}
+.share{
+    padding: .7rem;
+    background-color: #ff8b2b;
+    border: 2px solid #ff8b2b;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.caption{
+    margin:0 1rem;
+}
+.image{
+    border-bottom:2px solid #ff8b2b ;
+}
